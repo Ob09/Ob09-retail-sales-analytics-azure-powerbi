@@ -1,0 +1,79 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+P1001,Sofa A01,Furniture,Sofas,342.99,185.89
+P1002,Sofa B02,Furniture,Sofas,162.99,95.49
+P1003,Sofa C03,Furniture,Sofas,546.99,349.36
+P1004,Table A04,Furniture,Tables,291.99,180.45
+P1005,Table B05,Furniture,Tables,228.99,138.05
+P1006,Table C06,Furniture,Tables,262.99,167.59
+P1007,Chair A07,Furniture,Chairs,219.99,135.39
+P1008,Chair B08,Furniture,Chairs,176.99,113.58
+P1009,Chair C09,Furniture,Chairs,229.99,150.61
+P1010,Storage A10,Furniture,Storage,405.99,261.97
+P1011,Storage B11,Furniture,Storage,149.99,91.34
+P1012,Storage C12,Furniture,Storage,536.99,325.74
+P1013,Bed A13,Furniture,Beds,321.99,195.14
+P1014,Bed B14,Furniture,Beds,292.99,168.37
+P1015,Bed C15,Furniture,Beds,190.99,115.15
+P1016,Cookware A16,Kitchen,Cookware,84.99,44.49
+P1017,Cookware B17,Kitchen,Cookware,87.99,46.74
+P1018,Cookware C18,Kitchen,Cookware,56.99,31.12
+P1019,Appliance A19,Kitchen,Appliances,107.99,53.68
+P1020,Appliance B20,Kitchen,Appliances,42.99,25.88
+P1021,Appliance C21,Kitchen,Appliances,78.99,40.44
+P1022,Tableware A22,Kitchen,Tableware,115.99,64.9
+P1023,Tableware B23,Kitchen,Tableware,40.99,22.93
+P1024,Tableware C24,Kitchen,Tableware,75.99,42.34
+P1025,Utensil A25,Kitchen,Utensils,56.99,34.68
+P1026,Utensil B26,Kitchen,Utensils,34.99,17.32
+P1027,Utensil C27,Kitchen,Utensils,158.99,89.44
+P1028,Duvet A28,Bedding,Duvets,96.99,49.53
+P1029,Duvet B29,Bedding,Duvets,35.99,19.53
+P1030,Duvet C30,Bedding,Duvets,76.99,37.0
+P1031,Pillow A31,Bedding,Pillows,45.99,22.08
+P1032,Pillow B32,Bedding,Pillows,27.99,13.08
+P1033,Pillow C33,Bedding,Pillows,56.99,28.14
+P1034,Sheet A34,Bedding,Sheets,41.99,18.94
+P1035,Sheet B35,Bedding,Sheets,15.99,7.92
+P1036,Sheet C36,Bedding,Sheets,53.99,29.38
+P1037,Throw A37,Bedding,Throws,58.99,26.27
+P1038,Throw B38,Bedding,Throws,98.99,55.28
+P1039,Throw C39,Bedding,Throws,19.99,9.99
+P1040,Lamp A40,Lighting,Lamps,27.99,15.28
+P1041,Lamp B41,Lighting,Lamps,7.98,3.87
+P1042,Lamp C42,Lighting,Lamps,72.99,36.54
+P1043,Ceiling A43,Lighting,Ceiling,32.99,16.95
+P1044,Ceiling B44,Lighting,Ceiling,26.99,12.86
+P1045,Ceiling C45,Lighting,Ceiling,23.99,11.66
+P1046,Outdoor A46,Lighting,Outdoor,53.99,30.68
+P1047,Outdoor B47,Lighting,Outdoor,83.99,40.11
+P1048,Outdoor C48,Lighting,Outdoor,22.99,10.34
+P1049,Bulb A49,Lighting,Bulbs,22.99,13.64
+P1050,Bulb B50,Lighting,Bulbs,146.99,86.6
+P1051,Bulb C51,Lighting,Bulbs,16.99,8.58
+P1052,Planter A52,Garden,Planters,86.99,51.26
+P1053,Planter B53,Garden,Planters,34.99,20.79
+P1054,Planter C54,Garden,Planters,121.99,70.28
+P1055,Tool A55,Garden,Tools,190.99,102.28
+P1056,Tool B56,Garden,Tools,139.99,86.39
+P1057,Tool C57,Garden,Tools,137.99,80.32
+P1058,Furniture A58,Garden,Furniture,76.99,49.19
+P1059,Furniture B59,Garden,Furniture,112.99,67.02
+P1060,Furniture C60,Garden,Furniture,152.99,88.36
+P1061,Decor A61,Garden,Decor,18.99,12.33
+P1062,Decor B62,Garden,Decor,93.99,57.63
+P1063,Decor C63,Garden,Decor,93.99,50.08
+P1064,Mirror A64,Home Decor,Mirrors,89.99,43.2
+P1065,Mirror B65,Home Decor,Mirrors,178.99,72.15
+P1066,Mirror C66,Home Decor,Mirrors,29.99,12.28
+P1067,Candle A67,Home Decor,Candles,78.99,33.48
+P1068,Candle B68,Home Decor,Candles,185.99,84.23
+P1069,Candle C69,Home Decor,Candles,60.99,31.05
+P1070,Frame A70,Home Decor,Frames,91.99,45.33
+P1071,Frame B71,Home Decor,Frames,61.99,27.53
+P1072,Frame C72,Home Decor,Frames,34.99,15.57
+P1073,Rug A73,Home Decor,Rugs,145.99,70.63
+P1074,Rug B74,Home Decor,Rugs,41.99,19.83
+P1075,Rug C75,Home Decor,Rugs,196.99,85.04
+P1076,Cushion A76,Home Decor,Cushions,119.99,46.31
+P1077,Cushion B77,Home Decor,Cushions,23.99,9.44
+P1078,Cushion C78,Home Decor,Cushions,29.99,12.7
